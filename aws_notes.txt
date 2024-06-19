@@ -1,0 +1,36 @@
+praveenlado@outlook.com    (make by23jan-24)
+Lado@143
+
+praveen.dwivedi16@outlook.com
+Devops@123
+
+Devops@123
+
+
+Git hub login deatsils 
+praveen.dwivedi397@gmail.com
+password=Lado@Praveen@143
+username=PraveenDwivedi16
+
+
+apt install stress
+
+stress -c 16 -t 20m &
+
+
+
+#!/bin/bash
+apt update
+apt upgrade -y
+apt install nginx -y
+echo "Welcome to Devops TechLab for AWS Cloud Training" > /var/www/html/index.html
+systemctl restart nginx.service
+
+exit 0
+
+
+
+
+
+
+
